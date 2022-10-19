@@ -17,8 +17,26 @@ img {
 
 #sobremim {
     font-size: 15px;
-    text-align: center;
+    /*text-align: center;*/
     color: rgb(255,20,147);
     line-height: 30px;
     font-family: fantasy;
+}
+
+.lado-esquerdo > p {
+    display: inline-block;
+    width: 30%;
+    height: 150px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    float: left;
+}
+
+.lado-direito > h2 > ul li {
+    display: inline-block;
+    width: 30%;
+    height: 150px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    float: right;
 }
