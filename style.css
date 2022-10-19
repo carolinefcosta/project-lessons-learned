@@ -1,6 +1,10 @@
 body {
     box-sizing: border-box;
     background-color: rgb(253, 251, 251);
+    font-size: 15px;
+    color: rgb(255,20,147);
+    line-height: 30px;
+    font-family: fantasy;
 }
 
 #cabecalho {
@@ -10,7 +14,7 @@ body {
 
 img {
     display: block;
-    margin-top: 9%;
+    margin-top: 10%;
     padding: 5px;
     border-radius: 50%;
 }
@@ -31,9 +35,11 @@ img {
 }
 
 .lado-direito {
+    position: relative;
     width: 15%;
     height: 150px;
     margin:auto;
+    text-align: center;
 }
 
 .licoes {
