@@ -23,20 +23,22 @@ img {
     font-family: fantasy;
 }
 
-.lado-esquerdo > p {
-    display: inline-block;
-    width: 15%;
+.lado-esquerdo {
+    width: 20%;
     height: 150px;
-    margin-top: 15px;
-    margin-bottom: 15px;
-    /*float: left;*/
+    float: left;
+    margin: auto;
+    text-align: center;
 }
 
-.lado-direito > h2 > ul li {
-    display: inline-block;
+.lado-direito {
     width: 15%;
     height: 150px;
-    margin-top: 15px;
-    margin-bottom: 15px;
-    /*float: right;*/
+    float: right;
+    margin: auto;
+}
+
+.licoes {
+    display: block;
+    margin-top: 300px;
 }
