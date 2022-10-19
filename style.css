@@ -26,22 +26,23 @@ img {
     font-family: fantasy;
 }
 
+.ladoalado {
+    display: block;
+}
+
 .lado-esquerdo {
     width: 20%;
     height: 150px;
     float: left;
     margin: auto;
     text-align: center;
+    float: left;
 }
 
 .lado-direito {
-    position: relative;
-    width: 15%;
-    height: 150px;
-    margin:auto;
-    text-align: center;
+    float: right;
 }
 
 .licoes {
-    margin-top: 150px;
+    margin-top: 300px;
 }
