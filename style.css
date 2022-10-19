@@ -25,18 +25,18 @@ img {
 
 .lado-esquerdo > p {
     display: inline-block;
-    width: 30%;
+    width: 15%;
     height: 150px;
     margin-top: 15px;
     margin-bottom: 15px;
-    float: left;
+    /*float: left;*/
 }
 
 .lado-direito > h2 > ul li {
     display: inline-block;
-    width: 30%;
+    width: 15%;
     height: 150px;
     margin-top: 15px;
     margin-bottom: 15px;
-    float: right;
+    /*float: right;*/
 }
