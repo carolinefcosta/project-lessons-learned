@@ -1,0 +1,48 @@
+body {
+    box-sizing: border-box;
+    background-color: rgb(253, 251, 251);
+    font-size: 15px;
+    color: rgb(255,20,147);
+    line-height: 30px;
+    font-family: fantasy;
+}
+
+#cabecalho {
+    position: fixed;
+    top: 0;
+}
+
+img {
+    display: block;
+    margin-top: 10%;
+    padding: 5px;
+    border-radius: 50%;
+}
+
+#sobremim {
+    font-size: 15px;
+    color: rgb(255,20,147);
+    line-height: 30px;
+    font-family: fantasy;
+}
+
+.ladoalado {
+    display: block;
+}
+
+.lado-esquerdo {
+    width: 20%;
+    height: 150px;
+    float: left;
+    margin: auto;
+    text-align: center;
+    float: left;
+}
+
+.lado-direito {
+    float: right;
+}
+
+.licoes {
+    margin-top: 300px;
+}
