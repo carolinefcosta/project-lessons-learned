@@ -1,10 +1,16 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## 💻 Projeto
+
+Projeto desenvolvido no módulo de fundamentos do curso da [Trybe](https://www.betrybe.com/), no qual foi criado um site que contém uma série de informações sobre o que aprendi ao longo do curso.
+
+## 🚀 Tecnologias usadas
+
+- HTML
+- CSS
+
+## 📌 Habilidades desenvolvidas
+
+Nesse projeto, fui capaz de:
+
+- Utilizar _HTML_ para construir páginas WEB.
+- Utilizar _HTML_ semântico para tornar sua página mais acessível e melhor ranqueada.
+- Utilizar _CSS_ para adicionar estilo e posicionar elementos.
